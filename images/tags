@@ -1,0 +1,27 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/mnt/ssd1/projects/TIL/fem/profile-card-component-main/images/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	/p5.9.20210110.0/
+a	bg-pattern-bottom.svg	/^<svg width="978" height="978" xmlns="http:\/\/www.w3.org\/2000\/svg"><defs><linearGradient x1="5/;"	d
+a	bg-pattern-bottom.svg	/^<svg width="978" height="978" xmlns="http:\/\/www.w3.org\/2000\/svg"><defs><linearGradient x1="5/;"	i
+a	bg-pattern-card.svg	/^<svg width="350" height="140" xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w/;"	d
+a	bg-pattern-card.svg	/^<svg width="350" height="140" xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w/;"	i
+a	bg-pattern-top.svg	/^<svg width="978" height="978" xmlns="http:\/\/www.w3.org\/2000\/svg"><defs><linearGradient x1="5/;"	d
+a	bg-pattern-top.svg	/^<svg width="978" height="978" xmlns="http:\/\/www.w3.org\/2000\/svg"><defs><linearGradient x1="5/;"	i
+b	bg-pattern-card.svg	/^<svg width="350" height="140" xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w/;"	i
+c	bg-pattern-card.svg	/^<svg width="350" height="140" xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w/;"	d
+c	bg-pattern-card.svg	/^<svg width="350" height="140" xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w/;"	i
+d	bg-pattern-card.svg	/^<svg width="350" height="140" xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w/;"	d
+d	bg-pattern-card.svg	/^<svg width="350" height="140" xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w/;"	i
+ns0af3073e0101	bg-pattern-card.svg	/^<svg width="350" height="140" xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w/;"	n	uri:http://www.w3.org/2000/svg
+ns2dc866b90101	bg-pattern-bottom.svg	/^<svg width="978" height="978" xmlns="http:\/\/www.w3.org\/2000\/svg"><defs><linearGradient x1="5/;"	n	uri:http://www.w3.org/2000/svg
+nsb1b7a1f70101	bg-pattern-top.svg	/^<svg width="978" height="978" xmlns="http:\/\/www.w3.org\/2000\/svg"><defs><linearGradient x1="5/;"	n	uri:http://www.w3.org/2000/svg
+x	index.js	/^const x = [$/;"	C
+xlink	bg-pattern-card.svg	/^<svg width="350" height="140" xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w/;"	n	uri:http://www.w3.org/1999/xlink
